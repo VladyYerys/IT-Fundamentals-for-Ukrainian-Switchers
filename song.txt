@@ -2,18 +2,9 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battle field
-wall of shields
-standing strong
 
-from the lines 
+From the lines 
 Shield by shield
-
-<<<<<<< HEAD
 Side by side 
 We're marching into destiny
 -------------------------------
-
-git revert --
-=======
-
->>>>>>> parent of 3eb76c6 (finish second part)
